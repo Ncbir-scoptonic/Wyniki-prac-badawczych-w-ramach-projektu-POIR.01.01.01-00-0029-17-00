@@ -1,5 +1,8 @@
 # Wyniki-prac-badawczych-w-ramach-projektu-POIR.01.01.01-00-0029-17-00
 
+## Tytuł projektu
+Opracowanie innowacyjnego urządzenia do bezinwazyjnej optycznej kontroli jakości produkcji opakowań w czasie rzeczywistym
+
 ## Opis projektu
 W ramach projektu zostanie opracowany unikatowy prototyp urządzenia do bezinwazyjnej optycznej kontroli jakości w produkcji
 opakowań. Jako element już istniejących maszyn produkcyjnych będzie stanowił zaawansowany interfejs w układzie operator-maszyna.
