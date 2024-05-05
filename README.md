@@ -12,3 +12,6 @@ urządzenia z linią produkcyjną, wysokiej jakości obrazowanie i czułość za
 w czasie rzeczywistym, firma Scoptonic zamierza wprowadzić na rynek nowy standard kontroli jakości. Aby osiągnąć zamierzony cel, firma
 nawiązała współpracę z zespołem naukowców prowadzonych przez dr. hab. Macieja Szkulmowskiego z Uniwersytetu Mikołaja Kopernika
 w Toruniu, którzy zrealizują część badań przemysłowych zaplanowanych w przedmiotowym projekcie.
+
+## Pytania
+W przypadku dodatkowych pytań do wyników prosimy o kontakt przez formularz dostępny na dole strony: www.scoptonic.com
